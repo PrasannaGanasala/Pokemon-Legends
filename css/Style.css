@@ -81,7 +81,7 @@ input.SearchBox
 input.SearchIcon
 {
   margin-top: 7pt;
-  background-image: url(/Blogger/assets/SearchIcon1.png) ;
+  background-image: url(./assets/SearchIcon1.png) ;
   background-size: 20pt 15pt;
   width: 20pt;
   cursor: pointer;
